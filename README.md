@@ -17,9 +17,11 @@ Analisis dilakukan menggunakan:
 
 Dataset yang digunakan berasal dari Kaggle:
 
-* Nama Dataset: [Isi nama dataset]
-* Sumber: [Link Kaggle]
-* Deskripsi singkat: Jelaskan isi dataset (jumlah kolom, jenis data, dll)
+* Nama Dataset: [AI_Student_Life_Pakistan_2026.csv]
+* Sumber: [https://www.kaggle.com/datasets/guriya79/how-ai-is-changing-student-life]
+* Deskripsi singkat: This dataset explores how artificial intelligence is transforming student life, focusing on study habits, academic performance, and overall satisfaction. It provides insights into how students interact with AI tools in their daily learning routines and how these tools influence their outcomes.
+
+The dataset highlights real-world usage patterns and reveals both the benefits and potential drawbacks of AI adoption in education
 
 ---
 
