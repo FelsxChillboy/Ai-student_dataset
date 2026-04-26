@@ -126,10 +126,8 @@ python main.py
 
 ```
 ├── data/
-├── notebook/
-├── src/
+├── AI_Student_Analysis.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 ---
