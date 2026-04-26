@@ -148,10 +148,3 @@ Pengembangan selanjutnya:
 * Menambahkan model machine learning
 * Menggunakan dataset lebih besar
 * Membuat dashboard interaktif
-
----
-
-## 👤 Author
-
-Nama: [Nama Kamu]
-Email / LinkedIn: [Opsional]
